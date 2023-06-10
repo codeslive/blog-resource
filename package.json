@@ -8,7 +8,8 @@
     "deploy": "hexo deploy",
     "server": "hexo server",
     "upload": "hexo clean &&  hexo generate && hexo deploy",
-    "backup": "git add . && git commit -m 'backup' && git push origin master"
+    "backup": "git add . && git commit -m 'backup' && git push origin master",
+    "repo": "npm run upload && npm run backup"
   },
   "hexo": {
     "version": "6.3.0"
