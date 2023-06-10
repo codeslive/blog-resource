@@ -24,7 +24,7 @@ cover:  https://static-youdao-note.oss-cn-shenzhen.aliyuncs.com/images/202305270
 
 仓库地址：https://github.com/nvm-sh/nvm
 
-![image-20230516001402862](https://cdn.staticaly.com/gh/codeslive/images-pages@main/2023/202305160059867.webp)
+![image-20230516001402862](https://static-youdao-note.oss-cn-shenzhen.aliyuncs.com/images/202306101135092.webp)
 
 `gitee`:
 
@@ -44,7 +44,7 @@ git clone https://gitee.com/codeslive/nvm.git
 nvm list available
 ```
 
-![image-20230516001727419](https://cdn.staticaly.com/gh/codeslive/images-pages@main/2023/202305160100166.webp)
+![image-20230516001727419](https://static-youdao-note.oss-cn-shenzhen.aliyuncs.com/images/202306101135792.webp)
 
 这里使用`nvm install xxx`命令安装node的时候，一定要`切换镜像源`，不然真的就是不动的
 
@@ -66,7 +66,7 @@ nvm node_mirror http://mirrors.cloud.tencent.com/nodejs-release/
 
 ##### 3. 使用node
 
-![image-20230516001905031](https://cdn.staticaly.com/gh/codeslive/images-pages@main/2023/202305160100668.webp)
+![image-20230516001905031](https://static-youdao-note.oss-cn-shenzhen.aliyuncs.com/images/202306101136693.webp)
 
 
 

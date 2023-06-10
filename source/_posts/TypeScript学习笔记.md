@@ -4,7 +4,7 @@ tages: [ts]
 categories: 前端
 description: TypeScript学习笔记
 comments: true
-cover:  https://cdn.staticaly.com/gh/codeslive/images-pages@main/2023/202305262043100.webp
+cover:  https://static-youdao-note.oss-cn-shenzhen.aliyuncs.com/images/202306101140037.webp
 ---
 
 ### 1. 安装TS
